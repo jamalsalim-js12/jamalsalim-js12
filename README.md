@@ -12,8 +12,7 @@ I'm Jamal Salim, a passionate web developer and a tech enthusiast on an exciting
 
 ## 🚀 Projects
 
-- [Project 1](link-to-project-1): Brief description
-- [Project 2](link-to-project-2): Brief description
+https://github.com/jamalsalim-js12?tab=repositories
 
 ## 🌱 Currently Learning
 
