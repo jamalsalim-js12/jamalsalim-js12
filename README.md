@@ -28,7 +28,7 @@ https://github.com/jamalsalim-js12?tab=repositories
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jamalsalim-js12&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamalsalim-js12)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamalsalim-js12&show_icons=true&theme=radical)
 
 
 Thanks for stopping by! 😊
