@@ -21,11 +21,11 @@ I'm Jamal Salim, a passionate developer on a coding journey.
 
 ## 💬 Let's Connect
 
-- [LinkedIn](your-linkedin-profile)
-- [Twitter](your-twitter-profile)
+- [LinkedIn](https://www.linkedin.com/in/jamalsalim-js12/)
+- [Instagram](https://www.instagram.com/jamalsalim.js12/)
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-jamalsalim-js12&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jamalsalim-js12&show_icons=true&theme=radical)
 
 Thanks for stopping by! 😊
