@@ -22,8 +22,8 @@ I'm Jamal Salim, a passionate web developer and a tech enthusiast on an exciting
 
 ## 💬 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/jamalsalim-js12/)
-- [Instagram](https://www.instagram.com/jamalsalim.js12/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamalsalim-js12/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jamalsalim.js12/)
 
 ## 📈 GitHub Stats
 
