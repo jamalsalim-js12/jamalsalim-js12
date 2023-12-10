@@ -5,10 +5,10 @@ I'm Jamal Salim, a passionate web developer and a tech enthusiast on an exciting
 
 ## 🔧 Skills & Tools
 
-- **Languages:** HTML, CSS, JavaScript
-- **Frameworks:** React.js, Node.js
-- **Database:** MySQL
-- **Tools:** Git, VS Code, Postman
+- **Languages:** HTML, CSS, JavaScript,Python
+- **Frameworks:** Bootstrap, Express.js
+- **Database:** MySQL,SQL Server Management Studio
+- **Tools:** Git, VS Code, Sublime Text, Postman, 
 
 ## 🚀 Projects
 
