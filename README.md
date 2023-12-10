@@ -1,6 +1,7 @@
 # Hi there! 👋
 
-I'm Jamal Salim, a passionate developer on a coding journey.
+I'm Jamal Salim, a passionate web developer and a tech enthusiast on an exciting journey of learning and exploration. Based in Ghana, I'm deeply immersed in the world of coding and constantly seeking ways to expand my knowledge and skills.
+
 
 ## 🔧 Skills & Tools
 
