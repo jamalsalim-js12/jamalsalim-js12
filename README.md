@@ -1,4 +1,6 @@
-### 👋 Hello World!, I'm Jamal Salim
+# 👋 Hello World!, I'm Jamal Salim
+-----
+
 💻 Web Developer 🚀 | Lifelong Learner 📚 | Code Enthusiast 💻
 🚀 Dive into my journey—where functionality meets creativity, project by project. 🚀
 
